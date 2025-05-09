@@ -25,7 +25,7 @@ const Footer = () => {
               <h3 className="text-lg font-semibold mb-4">Contact</h3>
               <p className="text-gray-300">
                 Email: info@eventhub.com<br />
-                Phone: +1 (123) 456-7890
+                Phone: +44  7467 609924
               </p>
             </div>
           </div>
